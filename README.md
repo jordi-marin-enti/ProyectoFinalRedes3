@@ -48,3 +48,6 @@ Construir una topología de red segura que cumpla los requisitos del enunciado y
 
 ## Estado actual
 Entrega 1 preparada: idea, topología, organización, plan de trabajo y estructura documental.
+
+## Topología
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/4f0a9b66-f1f3-4b06-9b00-b0816c29e8ff" />
