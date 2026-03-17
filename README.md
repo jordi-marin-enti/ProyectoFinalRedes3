@@ -4,8 +4,8 @@
 Red segura multisede con VLAN, firewall, DMZ, VPN, WiFi 802.1X, SD-WAN e IDS/IPS
 
 ## Integrantes
-- [Tu nombre]
-- [Nombre de tu compañero/a]
+- Victor Cubi
+- Jordi Marín
 
 ## Idea del proyecto
 Diseñar e implementar la red de una empresa con:
