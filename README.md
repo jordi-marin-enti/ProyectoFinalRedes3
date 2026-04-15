@@ -2,7 +2,7 @@
 Red segura multisede con VLAN, firewall, DMZ, VPN, WiFi 802.1X, SD-WAN e IDS/IPS
 
 ## Integrantes
-- Victor Cubi
+- Victor Cubí
 - Jordi Marín
 
 ## Idea del proyecto
